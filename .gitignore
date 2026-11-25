@@ -1,0 +1,7 @@
+# NetBeans build output
+/build/
+/dist/
+nbproject/private/
+*.class
+.DS_Store
+Thumbs.db
